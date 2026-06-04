@@ -1,6 +1,6 @@
 # HirePortal — Job Board & Profile Completion UI
 
-A responsive React.js application built for the InAmigos Foundation assignment.
+A responsive React.js application built for the Kovon Technologies Assignment.
 
 ## 🚀 Live Demo
 Deploy to Vercel in one click (see below).
